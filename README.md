@@ -4,6 +4,13 @@ I'm Ahnjili (aka Artificial Nouveau) and welcome to my personal page. You can al
 
 ## Upcoming Talks & Workshops (Bio is down below)
 
+### POV Drone Workshop
+
+Drones are capable of highly advanced surveillance and can come equipped with live-feed video cameras paired with face, object, and body recognition. This allows for the automated tracking of individuals. Surveillance drones can and have raised significant privacy and civil liberties issues. To highlight current and potential issues relating to the hyper-personalization surveillance of individuals, I will be giving a workshop on how to build and deploy their own smart drone.
+
+- Location: L.A.
+- Date: TBD
+
 ### AI Pickup Artist Workshop
 
 Machines are not immune from bias because bias exists in the humans that design them. We can, however, make those biases more obvious, expose them, and try to overcome them as we find them. ﻿For this workshop, we will create an AI pickup artist, an interactive web app that detects and classifies who you find attractive or not. The AI pickup artist is an art project that examines every step of the AI process including data collection, data labeling, data training, selecting an algorithm to use, the algorithmic model, and then the design of the AI pickup artist. What data would you feed your AI pickup artist? What would an acceptable error rate be? How would you deploy it? Would your potential suitors be receptive to it? The AI pickup artist will allow users to reflect on the role of humans in designing AI algorithms.
@@ -56,7 +63,7 @@ I will be discussing my Mozilla Fellowship Project.
 
 ## Official Short Bio
 
-I am a New York born, Hong Kong raised, Netherlands based clinical data scientist. My PhD focuses on building algorithms that can detect and monitor mental and physical illnesses based on data sourced from smartphone and smartwatches. I also enjoy creating and sharing creative (and often cynical or satirical) AI algorithms. My projects have focused on investigating the correlation between hormonal cycles and internet patterns, developing a predictive policing system to predicts police brutality, and creating a customizable AI pickup artist.
+Ahnjili is a New York-born, Hong Kong-raised, Netherlands-based data scientist, Ph.D. candidate, artist, and science communicator. Ahnjili's academic research focuses on developing smartphones- and wearables-based biomarkers that can be used to monitor one’s mental and physical wellbeing for clinical trials. Ahnjili's artistic research and science communication focuses on educating the public about A.I. and algorithmic violence, which refers to the violence that is justified or is created by an automated decision-making system. The themes addressed in her work include predictive policing and DIY biased surveillance. Ahnjili is a Mozilla Creative Media and Erasmus+ Grant Awardee.
 
 ## Academic Background
 
